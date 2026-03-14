@@ -1,8 +1,8 @@
 import React, { useEffect, useRef } from 'react'
 
 // ── URLs — update these when you publish ───────────────────────────────────
-const APK_URL        = '/downloads/fracta.apk'           // served from /public/downloads/
-const EXTENSION_URL  = '/downloads/fracta-extension.zip' // packed .crx or .zip
+const APK_URL        = 'https://github.com/asheesh109/FRACTO_LANDING_PAGE/releases/download/v1.0/factra.apk'           // served from /public/downloads/
+const EXTENSION_URL  = 'https://github.com/asheesh109/FRACTO_LANDING_PAGE/releases/download/v1.1/fracto-extension.zip' // packed .crx or .zip
 const GOVT_URL       = 'https://fracta-gov.vercel.app'         // government admin portal
 
 const OPTIONS = [
